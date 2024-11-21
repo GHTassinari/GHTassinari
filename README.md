@@ -15,7 +15,7 @@
         </td>
         <td>
           <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHTassinari&theme=midnight-purple&show_icons=true />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHTassinari&theme=midnight-purple&show_icons=true" />
           </a>
         </td>
       </tr>
