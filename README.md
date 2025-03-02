@@ -9,12 +9,12 @@
     <tr>
       <td>
         <a>
-          <img src="https://github-readme-stats-pi-lyart-74.vercel.app/api?username=GHTassinari&theme=midnight-purple&show_icons=true&include_all_commits=true" />
+
         </a>
       </td>
       <td>
         <a>
-          <img src="https://github-readme-stats-pi-lyart-74.vercel.app/api/top-langs/?username=GHTassinari&theme=midnight-purple&show_icons=true" />
+
         </a>
       </td>
     </tr>
