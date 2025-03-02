@@ -8,13 +8,13 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-git-dependabot-f1d363-ghtassinaris-projects.vercel.app/api?username=GHTassinari&theme=midnight-purple&show_icons=true&include_all_commits=true" />
+        <a>
+          <img src="https://github-readme-stats-9zy7smdpy-ghtassinaris-projects.vercel.app/api?username=GHTassinari&theme=midnight-purple&show_icons=true&include_all_commits=true" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-git-dependabot-f1d363-ghtassinaris-projects.vercel.app/api/top-langs/?username=GHTassinari&theme=midnight-purple&show_icons=true" />
+        <a>
+          <img src="https://github-readme-stats-9zy7smdpy-ghtassinaris-projects.vercel.app/api/top-langs/?username=GHTassinari&theme=midnight-purple&show_icons=true" />
         </a>
       </td>
     </tr>
