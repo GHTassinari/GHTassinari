@@ -9,7 +9,7 @@
     <tr>
       <td>
         <a>
-          <img src="https://github-readme-stats-pi-lyart-74.vercel.app/api?username=GHTassinari&theme=slateorange&show_icons=true&include_all_commits=true" />
+          <img src="https://github-readme-stats-pi-lyart-74.vercel.app/api?username=GHTassinari&theme=slateorange&show_icons=true&include_all_commits=false" />
         </a>
       </td>
       <td>
